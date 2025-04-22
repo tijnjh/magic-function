@@ -1,6 +1,6 @@
 # magic function
 
-funny experiment to genereate functions on the fly
+funny experiment to generate functions on the fly
 
 so stuff like this would work
 
